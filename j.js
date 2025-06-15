@@ -27,3 +27,23 @@ function goto_project_3()
   window.location.href = "projects/project3.html"
 
 }
+
+const project_4_button = document.getElementById("to_project_4")
+project_4_button.addEventListener('click', goto_project_4)
+
+function goto_project_4() 
+{
+
+  window.location.href = "projects/project4.html"
+
+}
+
+const project_5_button = document.getElementById("to_project_5")
+project_5_button.addEventListener('click', goto_project_5)
+
+function goto_project_5() 
+{
+
+  window.location.href = "projects/project5.html"
+
+}

@@ -4,7 +4,7 @@ project_1_button.addEventListener('click', goto_project_1)
 function goto_project_1() 
 {
 
-  window.location.href = "project1.html"
+  window.location.href = "projects/project1.html"
 
 }
 
@@ -14,7 +14,7 @@ project_2_button.addEventListener('click', goto_project_2)
 function goto_project_2() 
 {
 
-  window.location.href = "project2.html"
+  window.location.href = "projects/project2.html"
 
 }
 
@@ -24,6 +24,6 @@ project_3_button.addEventListener('click', goto_project_3)
 function goto_project_3() 
 {
 
-  window.location.href = "project3.html"
+  window.location.href = "projects/project3.html"
 
 }

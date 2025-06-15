@@ -3,6 +3,6 @@ home_button.addEventListener('click', goto_home_page)
 
 function goto_home_page() {
 
-  window.location.href = "../s.html"
+  window.location.href = "../index.html"
 
 }
